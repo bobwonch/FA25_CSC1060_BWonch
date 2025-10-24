@@ -3,13 +3,10 @@ import java.util.Scanner;
 public class Sand {
 
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		int i;
-		for (i = 0; i < 10; i++) {
-			
-		}
+		int i = 0;
 		
-
+		System.out.println(i + 1);
+		System.out.println(i);
 	}
 
 }
